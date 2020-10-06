@@ -2,7 +2,7 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+My test
 Use the left arrow to go back!
 
 Goodmoorning,evning or afternoon!
